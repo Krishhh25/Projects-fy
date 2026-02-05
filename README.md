@@ -9,4 +9,4 @@ Hangman Execution-
 
 Guess the word Execution-
 
-![Image](https://github.com/user-attachments/assets/e3205105-7250-4b94-9e32-18c7fc7c1484)
+![Image](https://github.com/user-attachments/assets/bb061804-ab80-4ec8-8e1a-c53d4f3fc8e5)
